@@ -1,6 +1,8 @@
 local Tabela = {
 	PlayerPermission = {
 		["abdalla_zeko"] = 			{Tier = 1000},
+                ["aood33616"] = 			{Tier = 500},
+                ["aood3361"] = 			        {Tier = 500},
   
 	},
 	
@@ -18,7 +20,7 @@ local Tabela = {
 		["Hakaishin"] = 				{Tier = 1000,Permission = {2908376678,3637228483,}},
 		["Boss"] = 					{Tier = 400,Permission = {2908376678,1822893375,3637228483,}},
 		["JP6"] = 					{Tier = 50,Permission = {2908376678,1822893375,3637228483,}},
-		["Gojo"] = 					{Tier = 100,Permission = {2908376678,3694271926,3637228483,4269845014,}}, -- perm temp
+		["Gojo"] = 					{Tier = 100,Permission = {2908376678,3694271926,3637228483,4269845014,2512196464,4932562391,}}, -- perm temp
 	}
 
 }
