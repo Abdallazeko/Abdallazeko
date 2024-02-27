@@ -1,7 +1,7 @@
 local Tabela = {
 	PlayerPermission = {
 		["abdalla_zeko"] = 			{Tier = 1000},
-                ["aood3361"] = 			        {Tier = 500},
+                ["aood3361"] = 			        {Tier = 500}, 
   
 	},
 	
