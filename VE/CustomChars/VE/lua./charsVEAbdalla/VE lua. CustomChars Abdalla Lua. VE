@@ -1,19 +1,20 @@
 local Tabela = {
 	PlayerPermission = {
 		["abdalla_zeko"] = 			{Tier = 1000},
+                ["itsm6yr"] = 			        {Tier = 1000},
   
    },
 	
 	CharacterTier = {
 		["Enrico"] = 					{Tier = 1000,Permission = {2908376678,1822893375,3637228483,}},
 		["DIO"]	=		                        {Locked = {2908376678}},
-                 ["Sukuna"] =                                   {Locked = 1000,Permission = {2908376678,}},
+                ["Sukuna"] =                                   {Locked = 1000,Permission = {2908376678,}},
 		["Madara"]	=				{Locked = {2908376678,1822893375,3637228483,}},
                 ["Eren"]	=				 {Locked = {2908376678,1822893375,3637228483,}},
 		["Koku"]	=				{Locked = {2908376678,1822893375,}},
 		["Yori"]	=				{Permission = {2908376678,1822893375,}},
 		["Meliodas"]	=				{Locked = {2908376678,1822893375,}},
-		["Goku"]	=				{Locked = {2908376678,1822893375,3637228483,}},
+		["Goku"]	=				{Permission = {2908376678,1822893375,3637228483,}},
 		["TOP"]	=					{Locked = {2908376678,1822893375}},
 		["Giorno"] = 					{Tier = 1000,Permission = {2908376678,1822893375,}},
 		["Hakaishin"] = 				{Tier = 1000,Permission = {2908376678,3637228483,}},
